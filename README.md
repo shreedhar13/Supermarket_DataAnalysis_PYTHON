@@ -20,19 +20,16 @@
 - #### Q6. What is the Sales Percentage customer type wise?
   ![Screenshot (264)](https://github.com/user-attachments/assets/819a1010-7f5b-4eb9-ab83-05cc70525d00)
 
-- #### Q7. What is the distribution of sales percentage as per customer types and product type?
+- #### Q7. What is the distribution of sales percentage as per customer types and product type OR Which type of Customer spends more and less on which Product line?
   ![Screenshot (265)](https://github.com/user-attachments/assets/bf34b69b-04c2-4680-9b2e-e618b7cec0df)
 
 - #### Q8. Which product-line was customer's most and least favorite?
   ![Screenshot (270)](https://github.com/user-attachments/assets/dd5664a6-4145-4eaf-ae40-771f82d9261e)
   
 - #### Q11. What is the distribution Total profit product line wise?
+  ![Screenshot (273)](https://github.com/user-attachments/assets/cb96c92a-9132-45f6-b1a4-6b30f60d2ce8)
   
-  
-- #### Q12.Which type of Customer spends more on which Product line ?
-  
-  
-- #### Q13: What is the correlation among the various features in the dataset?
+- #### Q12: What is the correlation among the various features in the dataset?
   ![Screenshot (274)](https://github.com/user-attachments/assets/79a4d1c4-89f7-4125-b99c-02705bb8d434)
 
 
@@ -65,17 +62,8 @@
 ![Screenshot (266)](https://github.com/user-attachments/assets/aa5756b7-fbeb-4d9f-a7ca-512e93717974)
 
 
-
 #17
 ![Screenshot (271)](https://github.com/user-attachments/assets/5fcdc930-67f3-4021-98c3-516b38d928d8)
-
-#18
-![Screenshot (272)](https://github.com/user-attachments/assets/bab0be35-af44-40a1-a779-a73d6d1c29ae)
-
-#19
-![Screenshot (273)](https://github.com/user-attachments/assets/cb96c92a-9132-45f6-b1a4-6b30f60d2ce8)
-
-
 
 #24
 ![Screenshot (278)](https://github.com/user-attachments/assets/99d03908-94dc-4fd9-9fe9-b65af9c1e8da)
