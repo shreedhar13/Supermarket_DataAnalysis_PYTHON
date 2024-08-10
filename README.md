@@ -1,5 +1,7 @@
 # Supermarket_DataAnalysis_PYTHON
 
+Here i have shown just visuals/charts, behind the scene what complex calculation is done woth the help of python's pandas, numpy libraries.  Checkout **Analysis.ipynb file** to see complete procedure i had carried out to build this analysis
+
 - #### Q1. What is the Sales, COGS, Gross Margin, Gross Income over time?
   ![Screenshot (267)](https://github.com/user-attachments/assets/2893334a-8a90-4668-bfb4-8ab4079a5e3b)
   ![Screenshot (268)](https://github.com/user-attachments/assets/7c7b99bc-931b-42f3-a25d-5514ad8195f5)
