@@ -32,38 +32,33 @@
 - #### Q12: What is the correlation among the various features in the dataset?
   ![Screenshot (274)](https://github.com/user-attachments/assets/79a4d1c4-89f7-4125-b99c-02705bb8d434)
 
+- #### Q13: Shipping mode distribution of order's
+  ![Screenshot (251)](https://github.com/user-attachments/assets/05c8c4ec-f8c9-4222-be10-2fe24bc368c1)
 
-#1
-![Screenshot (251)](https://github.com/user-attachments/assets/05c8c4ec-f8c9-4222-be10-2fe24bc368c1)
+- #### Q14: Item selled per category from 2010 to 2013(Data we have)?
+  ![Screenshot (252)](https://github.com/user-attachments/assets/70eb6d55-2e34-4582-97a7-b7eb302d146e)
 
-#2
-![Screenshot (252)](https://github.com/user-attachments/assets/70eb6d55-2e34-4582-97a7-b7eb302d146e)
+- #### Q15: Distribution of product Container type
+  ![Screenshot (253)](https://github.com/user-attachments/assets/296eae9e-60d1-40f7-bce3-a83ecba04aeb)
+  
+- #### Q16: Distribution of Discount's (Probability density function)
+  ![Screenshot (254)](https://github.com/user-attachments/assets/52fe142f-4953-4ecc-ac0f-d543222f1754)
 
-#3
-![Screenshot (253)](https://github.com/user-attachments/assets/296eae9e-60d1-40f7-bce3-a83ecba04aeb)
+- #### Q17: Outliers in Unit Price of product
+  ![Screenshot (255)](https://github.com/user-attachments/assets/83694e21-c1e7-438b-a152-7795aff37981)
 
-#4
-![Screenshot (254)](https://github.com/user-attachments/assets/52fe142f-4953-4ecc-ac0f-d543222f1754)
+- #### Q18: Variation Between each and evry features with together
+  ![Screenshot (256)](https://github.com/user-attachments/assets/77d26807-cc53-40bf-b6ee-f0598393ef0b)
 
-#5
-![Screenshot (255)](https://github.com/user-attachments/assets/83694e21-c1e7-438b-a152-7795aff37981)
+- #### Q19: Ship Mode Vs Order Count
+  ![Screenshot (257)](https://github.com/user-attachments/assets/73ab44af-9f0e-4926-a0cf-5ab27b10f8b2)
 
-#6
-![Screenshot (256)](https://github.com/user-attachments/assets/77d26807-cc53-40bf-b6ee-f0598393ef0b)
+- #### Q20: No of orders w.r.t customer type and product category
+  ![Screenshot (258)](https://github.com/user-attachments/assets/be47cc87-b1f1-4eca-a7ab-c9c3af60cada)
+  
+- #### Q21: Relation between order count over years
+  ![Screenshot (271)](https://github.com/user-attachments/assets/5fcdc930-67f3-4021-98c3-516b38d928d8)
 
-#7
-![Screenshot (257)](https://github.com/user-attachments/assets/73ab44af-9f0e-4926-a0cf-5ab27b10f8b2)
+- #### Q22: Total Sales acheived in past 4 years
+  ![Screenshot (278)](https://github.com/user-attachments/assets/99d03908-94dc-4fd9-9fe9-b65af9c1e8da)
 
-#8
-![Screenshot (258)](https://github.com/user-attachments/assets/be47cc87-b1f1-4eca-a7ab-c9c3af60cada)
-
-
-#12
-![Screenshot (266)](https://github.com/user-attachments/assets/aa5756b7-fbeb-4d9f-a7ca-512e93717974)
-
-
-#17
-![Screenshot (271)](https://github.com/user-attachments/assets/5fcdc930-67f3-4021-98c3-516b38d928d8)
-
-#24
-![Screenshot (278)](https://github.com/user-attachments/assets/99d03908-94dc-4fd9-9fe9-b65af9c1e8da)
