@@ -16,41 +16,58 @@
 - #### Q14. What is the total Average sales for each gender and product line combination?
 - #### Q15: What is the correlation among the various features in the dataset?
 
-
+#1
 ![Screenshot (251)](https://github.com/user-attachments/assets/05c8c4ec-f8c9-4222-be10-2fe24bc368c1)
 
+#2
 ![Screenshot (252)](https://github.com/user-attachments/assets/70eb6d55-2e34-4582-97a7-b7eb302d146e)
 
+#3
 ![Screenshot (253)](https://github.com/user-attachments/assets/296eae9e-60d1-40f7-bce3-a83ecba04aeb)
 
+#4
 ![Screenshot (254)](https://github.com/user-attachments/assets/52fe142f-4953-4ecc-ac0f-d543222f1754)
 
+#5
 ![Screenshot (255)](https://github.com/user-attachments/assets/83694e21-c1e7-438b-a152-7795aff37981)
 
+#6
 ![Screenshot (256)](https://github.com/user-attachments/assets/77d26807-cc53-40bf-b6ee-f0598393ef0b)
 
+#7
 ![Screenshot (257)](https://github.com/user-attachments/assets/73ab44af-9f0e-4926-a0cf-5ab27b10f8b2)
 
+#8
 ![Screenshot (258)](https://github.com/user-attachments/assets/be47cc87-b1f1-4eca-a7ab-c9c3af60cada)
 
+#9
 ![Screenshot (262)](https://github.com/user-attachments/assets/d7565222-2407-4e6a-a842-e8c4a673127d)
 
+#10
 ![Screenshot (264)](https://github.com/user-attachments/assets/819a1010-7f5b-4eb9-ab83-05cc70525d00)
 
+#11
 ![Screenshot (265)](https://github.com/user-attachments/assets/bf34b69b-04c2-4680-9b2e-e618b7cec0df)
 
+#12
 ![Screenshot (266)](https://github.com/user-attachments/assets/aa5756b7-fbeb-4d9f-a7ca-512e93717974)
 
+#13
 ![Screenshot (267)](https://github.com/user-attachments/assets/2893334a-8a90-4668-bfb4-8ab4079a5e3b)
 
+#14
 ![Screenshot (268)](https://github.com/user-attachments/assets/7c7b99bc-931b-42f3-a25d-5514ad8195f5)
 
+#15
 ![Screenshot (269)](https://github.com/user-attachments/assets/d0acf6c6-5bd8-48a3-ba06-87daf0694253)
 
+#16
 ![Screenshot (270)](https://github.com/user-attachments/assets/dd5664a6-4145-4eaf-ae40-771f82d9261e)
 
+#17
 ![Screenshot (271)](https://github.com/user-attachments/assets/5fcdc930-67f3-4021-98c3-516b38d928d8)
 
+#18
 ![Screenshot (272)](https://github.com/user-attachments/assets/bab0be35-af44-40a1-a779-a73d6d1c29ae)
 
 ![Screenshot (273)](https://github.com/user-attachments/assets/cb96c92a-9132-45f6-b1a4-6b30f60d2ce8)
