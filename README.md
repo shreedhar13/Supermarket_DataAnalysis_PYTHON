@@ -12,9 +12,7 @@
 - #### Q10. Plot the distribution of the total sales Branch and Product line wise.
 - #### Q11. What is the distribution of Average Total Sales product line wise?
 - #### Q12.Which type of Customer spends more on which Product line ?
-- #### Q13. Find Average Sales Gender and Branch Wise.
-- #### Q14. What is the total Average sales for each gender and product line combination?
-- #### Q15: What is the correlation among the various features in the dataset?
+- #### Q13: What is the correlation among the various features in the dataset?
 
 #1
 ![Screenshot (251)](https://github.com/user-attachments/assets/05c8c4ec-f8c9-4222-be10-2fe24bc368c1)
